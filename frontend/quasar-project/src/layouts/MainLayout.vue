@@ -66,12 +66,6 @@ const linksList = [
     link: 'https://facebook.quasar.dev',
   },
   {
-    label: 'Quasar Awesome',
-    caption: 'Community Quasar projects',
-    icon: 'favorite',
-    link: 'https://awesome.quasar.dev',
-  },
-  {
     label: 'Users',
     caption: 'Project users',
     icon: 'person',
