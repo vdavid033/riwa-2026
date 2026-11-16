@@ -8,6 +8,9 @@ const routes = [
       { path: 'lokacija', component: () => import('@/pages/LokacijaPage.vue') },
       { path: 'test', component: () => import('@/pages/TestPage.vue') },
       { path: 'test2', component: () => import('@/pages/TestPage2.vue') },
+      { path: 'testbrojac', component: () => import('@/pages/TestBrojacPage.vue') },
+      { path: 'testzbroj', component: () => import('@/pages/TestZbrojPage.vue') },
+      { path: 'testniz', component: () => import('@/pages/TestNizPage.vue') },
     ],
   },
 

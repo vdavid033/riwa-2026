@@ -31,6 +31,7 @@ function dodajIme() {
   imena.push(input.value);
   console.log(input.value);
   console.log(imena)
+
 }
 function addMail(){
   addmsg.value += 1;
